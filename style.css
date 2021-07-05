@@ -1,0 +1,31 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.orange-text{
+    color: orange;
+}
+.flex{
+    display: flex;
+}
+h1{
+    font-size: 60px;
+    color: rgb(26, 36, 122);
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+p{
+    color: rgb(53, 51, 134);
+    font-weight: 300;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange,tomato);
+    padding: 13px 30px;
+    border-radius: 25px;
+}
