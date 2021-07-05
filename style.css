@@ -49,8 +49,22 @@ h2{
     font-size: 35px;
     color: gray;
 }
+.title{
+    color: black;
+}
 #recipies{
     text-align: center;
     padding-left: 20%;
     padding-right: 20%;
+}
+.one-third-width{
+    width: 30%;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 15px;
+    padding: 8px;
+}
+.one-third-width img{
+    width: 100%;
 }
