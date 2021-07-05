@@ -38,6 +38,7 @@ p{
     background-image: linear-gradient(orange,tomato);
     padding: 13px 30px;
     border-radius: 25px;
+    font-weight: bold;
 }
 .banner{
     background-image: url(images/shapes/Frame\ 58.jpg);
@@ -92,6 +93,6 @@ h2{
 footer{
     background-color: rgb(2, 1, 37);
     text-align: center;
-    padding-top: 10px;
+    padding-top: 8px;
     padding-bottom: 50px;
 }
