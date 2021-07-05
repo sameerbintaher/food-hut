@@ -21,7 +21,7 @@ h1{
     width: 60%;
 }
 p{
-    color: gray;
+    color: black;
     font-weight: 300;
     margin-bottom: 50px;
 }
@@ -47,4 +47,10 @@ p{
 h2{
     font-weight: 900;
     font-size: 35px;
+    color: gray;
+}
+#recipies{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
 }
