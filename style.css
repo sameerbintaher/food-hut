@@ -59,12 +59,27 @@ h2{
 }
 .one-third-width{
     width: 30%;
-    margin-left: 3%;
-    margin-right: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
     box-shadow: 10px 10px 30px gray;
     border-radius: 15px;
-    padding: 8px;
+    padding: 10px;
 }
 .one-third-width img{
     width: 100%;
+}
+.live-count{
+    box-shadow: 10px 10px 30px gray;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 15px;
+    text-align: center;
+}
+.count-element{
+    margin-left: 17%;
+}
+.count-element-p{
+    margin-top: -40px;
+    margin-left: 15px;
 }
