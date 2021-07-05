@@ -7,18 +7,21 @@ body{
 }
 .flex{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 h1{
     font-size: 60px;
     color: rgb(26, 36, 122);
+}
+.equalize{
+    margin-top: 70px;
 }
 .half-width{
     width: 50%;
     padding-left: 5%;
 }
 .half-width img{
-    width: 60%;
+    width: 80%;
 }
 p{
     color: black;
@@ -43,6 +46,9 @@ p{
     background-size: cover;
     padding: 5%;
     height: 468px;
+}
+#resize{
+    width: 60%;
 }
 h2{
     font-weight: 900;
@@ -82,4 +88,10 @@ h2{
 .count-element-p{
     margin-top: -40px;
     margin-left: 15px;
+}
+footer{
+    background-color: rgb(2, 1, 37);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 50px;
 }
