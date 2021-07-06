@@ -90,12 +90,6 @@ h2{
     margin-top: -40px;
     margin-left: 15px;
 }
-footer{
-    background-color: rgb(2, 1, 37);
-    text-align: center;
-    padding-top: 8px;
-    padding-bottom: 50px;
-}
 .form{
     width:600px;
     height:500px;
@@ -114,4 +108,10 @@ footer{
 }
 #position{
     float: right;
+}
+footer{
+    background-color: rgb(2, 1, 37);
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 50px;
 }
