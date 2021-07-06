@@ -69,11 +69,12 @@ h2{
     margin-left: 5%;
     margin-right: 5%;
     box-shadow: 10px 10px 30px gray;
-    border-radius: 15px;
+    border-radius: 20px;
     padding: 10px;
 }
 .one-third-width img{
     width: 100%;
+    border-radius: 20px;
 }
 .live-count{
     box-shadow: 10px 10px 30px gray;
