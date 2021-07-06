@@ -59,7 +59,7 @@ h2{
 .title{
     color: black;
 }
-#recipies{
+.center-text{
     text-align: center;
     padding-left: 20%;
     padding-right: 20%;
@@ -95,4 +95,23 @@ footer{
     text-align: center;
     padding-top: 8px;
     padding-bottom: 50px;
+}
+.form{
+    width:600px;
+    height:500px;
+    background: rgb(182, 129, 30);
+    border-radius:10px;
+    box-shadow:10px 10px 40px gray;
+    margin-left: 30%;
+    margin-bottom: 50px;
+    padding:50px;
+}
+.text-area{
+    width: 100%;
+    margin-top:10px;
+    padding: 10px;
+    border-radius: 6px;
+}
+#position{
+    float: right;
 }
